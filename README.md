@@ -1,5 +1,5 @@
 # Gabriel Lima
-**`QA Tester`**
+**`QA Engineer`**
 
 Meu nome é Gabriel Henrique de Lima, tenho 24 anos e sou natural de Santa Catarina. Sou Tecnólogo em Análise e Desenvolvimento de Sistemas pelo IFSC.
 
