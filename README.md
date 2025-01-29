@@ -1,7 +1,7 @@
 # Gabriel Lima
 **`QA Engineer`**
 
-Meu nome é Gabriel Henrique de Lima, tenho 24 anos e sou natural de Santa Catarina. Sou Tecnólogo em Análise e Desenvolvimento de Sistemas pelo IFSC.
+Meu nome é Gabriel Henrique de Lima, tenho 24 anos e sou natural de Santa Catarina. Sou Tecnólogo em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Santa Catarina (IFSC).
 
 ---
 
